@@ -1,3 +1,4 @@
 *.[oa]
 *~
 build/  #忽略build/目录下的所有件
+index.html/**/*.html
